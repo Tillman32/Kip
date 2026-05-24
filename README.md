@@ -1,6 +1,8 @@
 # Kip ✨
 <img width="996" height="960" alt="Kip" src="https://github.com/user-attachments/assets/c28d3995-9bfe-46a2-97f8-ccf4b701f489" />
 
+
+
 > *"I love technology, but not as much as you, you see."*  
 > — **Kip Dynamite**
 
@@ -35,6 +37,7 @@ apm install Tillman32/Kip --skill ssh-exec
 | Name | Description | Domain | Works With |
 |------|-------------|--------|------------|
 | [ssh-exec](./.apm/skills/ssh-exec/SKILL.md) | Run non-interactive commands on remote Linux hosts over SSH. Risk confirmation and audit logging built in. | Infrastructure | Copilot, Claude |
+| [prepare-software-release](./.apm/skills/prepare-software-release/SKILL.md) | Prepare software projects for release: lint, tests, coverage checks for changed code, docs/changelog updates, version bump, and git tagging. | Software Delivery | Copilot, Claude |
 
 > More skills incoming. LaFawnduh is very supportive of this project.
 

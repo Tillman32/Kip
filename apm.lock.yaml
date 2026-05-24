@@ -1,0 +1,7 @@
+lockfile_version: '1'
+generated_at: '2026-05-24T06:41:21.662870+00:00'
+dependencies: []
+local_deployed_files:
+- .github/instructions/kip.instructions.md
+local_deployed_file_hashes:
+  .github/instructions/kip.instructions.md: sha256:1fa297c0dd75032b36cd2792b7c2f0eff7b4a1799d88a6916c9b98a76c3623af
