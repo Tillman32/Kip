@@ -1,10 +1,8 @@
 # Kip ✨
+
+> ## I love technology, but not as much as you, you see! — Kip Dynamite
+
 <img width="996" height="960" alt="Kip" src="https://github.com/user-attachments/assets/c28d3995-9bfe-46a2-97f8-ccf4b701f489" />
-
-
-
-> *"I love technology, but not as much as you, you see."*  
-> — **Kip Dynamite**
 
 **A curated collection of AI agent skills, packaged with [APM](https://github.com/microsoft/apm).**
 
@@ -40,6 +38,12 @@ apm install Tillman32/Kip --skill ssh-exec
 | [prepare-software-release](./.apm/skills/prepare-software-release/SKILL.md) | Prepare software projects for release: lint, tests, coverage checks for changed code, docs/changelog updates, version bump, and git tagging. | Software Delivery | Copilot, Claude |
 
 > More skills incoming. LaFawnduh is very supportive of this project.
+
+## Agents
+
+| Name | Description | Role |
+|------|-------------|------|
+| [kip](./.apm/agents/kip.agent.md) | High-level entrypoint and meta-agent for the Kip package. Routes requests to the best skill or specialist agent with clear handoffs. | Orchestration |
 
 ---
 
