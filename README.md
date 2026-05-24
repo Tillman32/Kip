@@ -16,13 +16,13 @@ Kip heard that. Kip built this repo.
 Install the full package into your AI assistant:
 
 ```bash
-apm install tillman/kip
+apm install Tillman32/Kip
 ```
 
 Or grab a single skill:
 
 ```bash
-apm install tillman/kip --skill ssh-exec
+apm install Tillman32/Kip --skill ssh-exec
 ```
 
 > **New to APM?** It's `npm` for AI agent skills. → [Quick Start](https://microsoft.github.io/apm/getting-started/quick-start/)
