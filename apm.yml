@@ -1,0 +1,15 @@
+name: kip
+version: 0.0.1
+description: "Curated AI agent skills by Brandon Tillman. I love technology, but not as much as you, you see."
+author: Brandon Tillman (TillmanBuildsTech.com)
+# Which agent platforms to deploy to.
+# Resolution order: --target flag > this field > auto-detect from filesystem.
+# Accepted values: copilot, claude, cursor, opencode, codex, gemini, windsurf, all
+targets:
+- claude
+- copilot
+dependencies:
+  apm: []
+  mcp: []
+includes: auto
+scripts: {}
