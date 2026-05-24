@@ -1,4 +1,5 @@
 # Kip ✨
+<img width="996" height="960" alt="Kip" src="https://github.com/user-attachments/assets/c28d3995-9bfe-46a2-97f8-ccf4b701f489" />
 
 > *"I love technology, but not as much as you, you see."*  
 > — **Kip Dynamite**
